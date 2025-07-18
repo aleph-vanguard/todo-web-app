@@ -1,0 +1,9 @@
+clean
+eat
+read
+draw
+take a nap
+buy grocery
+create a new task
+Finish the project
+Try to solve the daily exercise
